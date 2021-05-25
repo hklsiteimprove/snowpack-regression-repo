@@ -15,21 +15,22 @@ module.exports = {
       },
     ],
   ],
-  routes: [
-    /* Enable an SPA Fallback in development: */
-    // {"match": "routes", "src": ".*", "dest": "/index.html"},
-  ],
-  optimize: {
-    /* Example: Bundle your final build: */
-    // "bundle": true,
-  },
-  packageOptions: {
-    /* ... */
-  },
-  devOptions: {
-    /* ... */
-  },
-  buildOptions: {
-    /* ... */
-  },
+  // routes: [
+  //   /* Enable an SPA Fallback in development: */
+  //   // {"match": "routes", "src": ".*", "dest": "/index.html"},
+  // ],
+  // optimize: {
+  //   /* Example: Bundle your final build: */
+  //   // "bundle": true,
+  // },
+  // packageOptions: {
+  //   /* ... */
+  //   // external: ['/__web-dev-server__web-socket.js']
+  // },
+  // devOptions: {
+  //   /* ... */
+  // },
+  // buildOptions: {
+  //   /* ... */
+  // },
 };
